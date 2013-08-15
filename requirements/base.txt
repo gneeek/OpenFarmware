@@ -1,4 +1,5 @@
 # Base requirements - for all installations
-logutils==0.3.3
-South==0.8.1
-
+logutils>=0.3.3
+South>=0.8.1
+XBee>=2.1.0
+pyserial>=2.6.0
